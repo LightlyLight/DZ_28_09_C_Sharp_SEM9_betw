@@ -1,0 +1,29 @@
+C:\Users\stasy\OneDrive\Документы\Education\C#\practice\home_work\hw_task68\bin\Debug\net6.0\hw_task68.exe
+C:\Users\stasy\OneDrive\Документы\Education\C#\practice\home_work\hw_task68\bin\Debug\net6.0\hw_task68.deps.json
+C:\Users\stasy\OneDrive\Документы\Education\C#\practice\home_work\hw_task68\bin\Debug\net6.0\hw_task68.runtimeconfig.json
+C:\Users\stasy\OneDrive\Документы\Education\C#\practice\home_work\hw_task68\bin\Debug\net6.0\hw_task68.dll
+C:\Users\stasy\OneDrive\Документы\Education\C#\practice\home_work\hw_task68\bin\Debug\net6.0\hw_task68.pdb
+C:\Users\stasy\OneDrive\Документы\Education\C#\practice\home_work\hw_task68\obj\Debug\net6.0\hw_task68.csproj.AssemblyReference.cache
+C:\Users\stasy\OneDrive\Документы\Education\C#\practice\home_work\hw_task68\obj\Debug\net6.0\hw_task68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stasy\OneDrive\Документы\Education\C#\practice\home_work\hw_task68\obj\Debug\net6.0\hw_task68.AssemblyInfoInputs.cache
+C:\Users\stasy\OneDrive\Документы\Education\C#\practice\home_work\hw_task68\obj\Debug\net6.0\hw_task68.AssemblyInfo.cs
+C:\Users\stasy\OneDrive\Документы\Education\C#\practice\home_work\hw_task68\obj\Debug\net6.0\hw_task68.csproj.CoreCompileInputs.cache
+C:\Users\stasy\OneDrive\Документы\Education\C#\practice\home_work\hw_task68\obj\Debug\net6.0\hw_task68.dll
+C:\Users\stasy\OneDrive\Документы\Education\C#\practice\home_work\hw_task68\obj\Debug\net6.0\refint\hw_task68.dll
+C:\Users\stasy\OneDrive\Документы\Education\C#\practice\home_work\hw_task68\obj\Debug\net6.0\hw_task68.pdb
+C:\Users\stasy\OneDrive\Документы\Education\C#\practice\home_work\hw_task68\obj\Debug\net6.0\hw_task68.genruntimeconfig.cache
+C:\Users\stasy\OneDrive\Документы\Education\C#\practice\home_work\hw_task68\obj\Debug\net6.0\ref\hw_task68.dll
+C:\Света\Аналитик\ДЗ БА ГикБрейн\DZ_28_09_C_Sharp_SEM9_betw\Task68\bin\Debug\net6.0\hw_task68.exe
+C:\Света\Аналитик\ДЗ БА ГикБрейн\DZ_28_09_C_Sharp_SEM9_betw\Task68\bin\Debug\net6.0\hw_task68.deps.json
+C:\Света\Аналитик\ДЗ БА ГикБрейн\DZ_28_09_C_Sharp_SEM9_betw\Task68\bin\Debug\net6.0\hw_task68.runtimeconfig.json
+C:\Света\Аналитик\ДЗ БА ГикБрейн\DZ_28_09_C_Sharp_SEM9_betw\Task68\bin\Debug\net6.0\hw_task68.dll
+C:\Света\Аналитик\ДЗ БА ГикБрейн\DZ_28_09_C_Sharp_SEM9_betw\Task68\bin\Debug\net6.0\hw_task68.pdb
+C:\Света\Аналитик\ДЗ БА ГикБрейн\DZ_28_09_C_Sharp_SEM9_betw\Task68\obj\Debug\net6.0\hw_task68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Света\Аналитик\ДЗ БА ГикБрейн\DZ_28_09_C_Sharp_SEM9_betw\Task68\obj\Debug\net6.0\hw_task68.AssemblyInfoInputs.cache
+C:\Света\Аналитик\ДЗ БА ГикБрейн\DZ_28_09_C_Sharp_SEM9_betw\Task68\obj\Debug\net6.0\hw_task68.AssemblyInfo.cs
+C:\Света\Аналитик\ДЗ БА ГикБрейн\DZ_28_09_C_Sharp_SEM9_betw\Task68\obj\Debug\net6.0\hw_task68.csproj.CoreCompileInputs.cache
+C:\Света\Аналитик\ДЗ БА ГикБрейн\DZ_28_09_C_Sharp_SEM9_betw\Task68\obj\Debug\net6.0\hw_task68.dll
+C:\Света\Аналитик\ДЗ БА ГикБрейн\DZ_28_09_C_Sharp_SEM9_betw\Task68\obj\Debug\net6.0\refint\hw_task68.dll
+C:\Света\Аналитик\ДЗ БА ГикБрейн\DZ_28_09_C_Sharp_SEM9_betw\Task68\obj\Debug\net6.0\hw_task68.pdb
+C:\Света\Аналитик\ДЗ БА ГикБрейн\DZ_28_09_C_Sharp_SEM9_betw\Task68\obj\Debug\net6.0\hw_task68.genruntimeconfig.cache
+C:\Света\Аналитик\ДЗ БА ГикБрейн\DZ_28_09_C_Sharp_SEM9_betw\Task68\obj\Debug\net6.0\ref\hw_task68.dll
